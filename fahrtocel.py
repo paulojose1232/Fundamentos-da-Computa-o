@@ -1,0 +1,8 @@
+print("Celsius/Fahrenheit")
+print("-10/14")
+print("0/32")
+print("10/50")
+print("20/68")
+print("30/86")
+print("40/104")
+print("50/122")
